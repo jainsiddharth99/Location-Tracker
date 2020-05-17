@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transport Display</string>
+    <string name="title_activity_display">Transport Display</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">siddharthjain17@jklu.edu.in</string>
+    <string name="firebase_password" translatable="false">123456</string>
+</resources>
