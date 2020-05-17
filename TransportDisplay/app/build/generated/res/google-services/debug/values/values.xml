@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">999085563659-16b16nmjtvmqre8er7jm2bbmgedmr4qm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://trackingapp-f97da.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">999085563659</string>
+    <string name="google_api_key" translatable="false">AIzaSyBzypcKhlWwLPbjJWD6s-6pB7smjQgqneY</string>
+    <string name="google_app_id" translatable="false">1:999085563659:android:9f04b25bcd12f406e00c0e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBzypcKhlWwLPbjJWD6s-6pB7smjQgqneY</string>
+    <string name="google_storage_bucket" translatable="false">trackingapp-f97da.appspot.com</string>
+    <string name="project_id" translatable="false">trackingapp-f97da</string>
+</resources>
